@@ -1,5 +1,5 @@
 # Handleiding voor Prompt Engineering Toegepast op Detectie Financiele Criminaliteit
-In deze interactieve les leer je 2 promoting principes en gerelateerde tactieken om effectieve prompts te schrijven voor large Language modellen.
+In deze interactieve les leer je 2 principes en gerelateerde tactieken om effectieve prompts te schrijven voor Large Language Modellen (LLM's).
  
 ## 2 Belangrijke Principes
 1. Schrijf heldere en specifieke instructies helder=/kort
